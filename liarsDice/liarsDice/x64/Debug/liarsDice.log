@@ -1,0 +1,5 @@
+﻿  liarsDice.cpp
+C:\Users\boydb\source\repos\liarsDice\liarsDice\player.h(33,23): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'liarsDice.cpp')
+  
+  liarsDice.vcxproj -> C:\Users\boydb\source\repos\liarsDice\x64\Debug\liarsDice.exe
